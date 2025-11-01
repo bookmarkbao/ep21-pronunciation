@@ -2,6 +2,10 @@
 title: 我的音标练习笔记
 ---
 
+```
+Hey guys! This month I'm doing a 21-day live stream to challenge myself to improve my pronunciation. Today is Day 2. Yesterday was Day 1, and I practiced /n/ and /ŋ/. Today I'm gonna practice more sounds. So come back in 21 days and let's see how my pronunciation is going!
+```
+
 # 11月1日
 
 ## day1
