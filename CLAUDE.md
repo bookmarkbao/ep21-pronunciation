@@ -10,21 +10,21 @@ This is an English pronunciation learning project ("English Practicing 21 Days")
 
 ### Local Development
 ```bash
-pnpm dev
+yarn dev
 # or with clean cache
-pnpm run docs:clean-dev
+yarn run docs:clean-dev
 ```
 Starts VuePress dev server at http://localhost:8080 (default). The dev server has hot module replacement for immediate feedback when editing markdown files.
 
 ### Build
 ```bash
-pnpm run docs:build
+yarn run docs:build
 ```
 Generates static files in `docs/.vuepress/dist/` for production deployment.
 
 ### Update Dependencies
 ```bash
-pnpm run docs:update-package
+yarn run docs:update-package
 ```
 Updates VuePress and related packages using vp-update.
 
@@ -42,7 +42,7 @@ Updates VuePress and related packages using vp-update.
 - **VuePress 2.0.0-rc.20**: Static site generator
 - **Vue 3**: UI framework
 - **Vite**: Build bundler
-- **pnpm**: Package manager
+- **yarn**: Package manager
 
 ### VuePress Configuration
 Located at `docs/.vuepress/config.js`. Currently uses:
@@ -55,8 +55,8 @@ When modifying the site structure, update the navbar or sidebar configuration in
 ## CI/CD
 
 GitHub Actions workflow (`.github/workflows/deploy-docs.yml`) auto-deploys to GitHub Pages on push to `main` branch:
-1. Installs dependencies with pnpm
-2. Builds docs with `pnpm run docs:build`
+1. Installs dependencies with yarn
+2. Builds docs with `yarn run docs:build`
 3. Creates `.nojekyll` file in output
 4. Deploys `docs/.vuepress/dist/` to `gh-pages` branch
 
