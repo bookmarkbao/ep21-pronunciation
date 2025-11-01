@@ -1,8 +1,10 @@
 node_modules
-dist
 out
 .DS_Store
 .eslintcache
 *.log*
-.vuepress
+docs/.vuepress/.cache
+docs/.vuepress/.temp
 data-srt
+# 不忽略 dist 目录，因为我们要提交构建结果
+# dist
