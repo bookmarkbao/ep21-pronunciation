@@ -4,7 +4,8 @@
       "Bash(python create_day_files.py:*)",
       "Bash(pnpm dev)",
       "Bash(python fix_links.py:*)",
-      "Bash(pnpm run docs:build:*)"
+      "Bash(pnpm run docs:build:*)",
+      "Bash(pnpm --version:*)"
     ],
     "deny": [],
     "ask": []
