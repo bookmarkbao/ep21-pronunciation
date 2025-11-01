@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python create_day_files.py:*)",
+      "Bash(pnpm dev)",
+      "Bash(python fix_links.py:*)",
+      "Bash(pnpm run docs:build:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
