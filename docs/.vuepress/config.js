@@ -3,6 +3,7 @@ import { defineUserConfig } from 'vuepress'
 import { viteBundler } from '@vuepress/bundler-vite'
 
 export default defineUserConfig({
+  base: '/ep21-pronunciation/',
   lang: 'zh-CN',
 
   title: '大向的21天发音特训',
