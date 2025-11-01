@@ -6,5 +6,6 @@ out
 docs/.vuepress/.cache
 docs/.vuepress/.temp
 data-srt
+docs/.vuepress/dist
 # 不忽略 dist 目录，因为我们要提交构建结果
 # dist
