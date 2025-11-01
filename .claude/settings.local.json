@@ -5,7 +5,10 @@
       "Bash(pnpm dev)",
       "Bash(python fix_links.py:*)",
       "Bash(pnpm run docs:build:*)",
-      "Bash(pnpm --version:*)"
+      "Bash(pnpm --version:*)",
+      "Bash(pnpm install:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)"
     ],
     "deny": [],
     "ask": []
