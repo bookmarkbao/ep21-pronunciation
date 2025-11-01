@@ -2,14 +2,14 @@
 
 > 建议：保留原标注（重音、连读、弱读、语调），并在此统一二次校对
 
-## Day 01｜英文腔体 低喉位宽大舌
+## 01 英文腔体 低喉位宽大舌
 1) 'Good 'morning, everyone. ↓
 2) It's 'wonderful to 'see you. ↓
 3) Let's 'start with the 'basics. ↓
 4) Keep your 'throat re'laxed. ↓
 5) Feel the 'difference in your 'voice. ↓
 
-## Day 02｜元音 前元音
+## 02 元音 前元音
 1) She 'sees the 'cheese and 'eats cookies. ↓
 2) Can you 'meet at 'three? ↑
 3) This 'ship is 'bigger than that 'sheep. ↓
@@ -19,7 +19,7 @@
 7) Please 'sit in the 'seat. ↓
 8) A 'queen 'eats 'green 'cream. ↓
 
-## Day 03｜元音 中元音后元音
+## 03 元音 中元音后元音
 1) The 'bird 'works 'early in the 'morning. ↓
 2) My 'father drives a 'large 'car. ↓
 3) 'Put the 'good 'book on the 'table. ↓
@@ -29,7 +29,7 @@
 7) The 'nurse 'turned and re'turned. ↓
 8) 'Should you 'put the 'foot'ball there? ↑
 
-## Day 04｜元音 双元音
+## 04 元音 双元音
 1) To'day is a 'great 'day. ↓
 2) My 'eyes are 'tired to'night. ↓
 3) The 'boy's 'voice is 'very 'loud. ↓
@@ -39,7 +39,7 @@
 7) 'Where's the 'chair for the 'hair'dresser? ↑
 8) Are you 'sure the 'tour is 'pure? ↑
 
-## Day 05｜辅音 爆破音
+## 05 辅音 爆破音
 1) 'Please 'stop 'talking. ↓
 2) The 'big 'dog 'bit the 'cat. ↓
 3) 'Take a 'good 'look at the 'book. ↓
@@ -49,7 +49,7 @@
 7) 'Good 'boy! ↓ (失爆)
 8) She 'kept 'quiet. ↓ (失爆)
 
-## Day 06｜辅音 摩擦音
+## 06 辅音 摩擦音
 1) 'Five~or 'six 'fish, please. ↓
 2) I 'think 'this is 'theirs. ↓
 3) She 'has a 'vision of the 'future. ↓
@@ -59,7 +59,7 @@
 7) 'Wash the 'dishes~in the 'machine. ↓
 8) He 'hates 'having to 'hurry. ↓
 
-## Day 07｜辅音 破擦音鼻音
+## 07 辅音 破擦音鼻音
 1) The 'teacher~is 'watching the 'children. ↓
 2) 'Judge the 'bridge by~its~'age. ↓
 3) I'm 'thinking of 'singing a 'song. ↓
@@ -69,7 +69,7 @@
 7) 'Something's 'ringing~in the 'evening. ↓
 8) The ma'gician's i'magination~is~a'mazing. ↓
 
-## Day 08｜辅音 舌侧音半元音
+## 08 辅音 舌侧音半元音
 1) 'Look~at the 'lovely 'little 'lake. ↓
 2) 'Tell me~a'bout the 'tall 'wall. ↓
 3) The 'red 'car~is 'really 'rare. ↓
@@ -79,7 +79,7 @@
 7) We're 'writing~a re'view. ↓
 8) 'Few 'people~under'stand the 'value. ↓
 
-## Day 09｜辅音组合
+## 09 辅音组合
 1) 'Stop 'speaking so 'slowly. ↓
 2) The 'street~is 'strong and 'straight. ↓
 3) 'Please 'try to 'trust me. ↓
@@ -89,7 +89,7 @@
 7) I 'screamed~at the 'screen. ↓
 8) 'Practice 'problems pro'duce pro'gress. ↓
 
-## Day 10｜-s 和 -ed 尾音
+## 10 -s 和 -ed 尾音
 1) He 'walks /wɔːks/ to 'work. ↓
 2) She 'loves /lʌvz/ 'music. ↓
 3) He 'misses /ˈmɪsɪz/ the 'bus. ↓
@@ -99,7 +99,7 @@
 7) He 'decided /dɪˈsaɪdɪd/ and~ac'cepted /əkˈseptɪd/. ↓
 8) The 'churches /ˈtʃɜːtʃɪz/ 'closed /kləʊzd/ 'early. ↓
 
-## Day 11｜单词重音
+## 11 单词重音
 1) I 'need to re'cord a 'record. ↓
 2) The 'present~was 'present. ↓
 3) 'Photograph the pho'tographer. ↓
@@ -109,7 +109,7 @@
 7) The 'rebel will re'bel. ↓
 8) 'Export the~ex'ports 'carefully. ↓
 
-## Day 12｜单词连读
+## 12 单词连读
 1) Pick~it~up. ↓
 2) Not~at~all. ↓
 3) Go~(w)ahead. ↓
@@ -119,7 +119,7 @@
 7) Put~it~away. ↓
 8) Think~about~it. ↓
 
-## Day 13｜句子节奏
+## 13 句子节奏
 1) The 'students are 'studying. ↓ (重读内容词)
 2) I can 'see the 'mountain. ↓ (弱读功能词)
 3) She's 'reading a 'book in the 'park. ↓
@@ -129,7 +129,7 @@
 7) They've been 'waiting for an 'hour. ↓
 8) 'Call me when you 'get there. ↓
 
-## Day 14｜意群断句
+## 14 意群断句
 1) When I arrived // at the station, / the train / had already left. ↓
 2) The book / that you gave me // is very interesting. ↓
 3) If you need help, / please / don't hesitate / to ask. ↓
@@ -139,7 +139,7 @@
 7) Walking in the park, / I met / an old friend. ↓
 8) Before you leave, / make sure / everything is ready. ↓
 
-## Day 15｜焦点词
+## 15 焦点词
 1) I didn't say HE stole the money. ↓
 2) I didn't SAY he stole the money. ↓
 3) I didn't say he STOLE the money. ↓
@@ -149,7 +149,7 @@
 7) It's ABSOLUTELY perfect. ↓
 8) I COMPLETELY understand. ↓
 
-## Day 16｜语调（上）中英文语调区别
+## 16 语调（上）中英文语调区别
 1) It's a beautiful day. ↘ (陈述句，下降)
 2) Are you ready? ↗ (一般疑问句，上升)
 3) What's your name? ↘ (特殊疑问句，下降)
@@ -159,7 +159,7 @@
 7) How wonderful! ↘ (感叹句，下降)
 8) Maybe... ↗ (不确定，上升)
 
-## Day 17｜语调（下）上升下降语调
+## 17 语调（下）上升下降语调
 1) I need apples, ↗ bananas, ↗ and oranges. ↘
 2) If you come, ↗ I'll be happy. ↘
 3) Although it's raining, ↗ we'll still go. ↘
@@ -169,7 +169,7 @@
 7) Yes, ↘ I'm leaving tomorrow. ↘
 8) When you're ready, ↗ let me know. ↘
 
-## Day 18｜弱读（上）
+## 18 弱读（上）
 1) I want tə go. (to弱读)
 2) Fish ən chips. (and弱读)
 3) A cup əv coffee. (of弱读)
@@ -179,7 +179,7 @@
 7) She wəz here. (was弱读)
 8) We ər ready. (are弱读)
 
-## Day 19｜弱读（下）
+## 19 弱读（下）
 1) I'm (aɪm) going.
 2) You're (jʊə) right.
 3) He's (hɪz) coming.
@@ -189,7 +189,7 @@
 7) Where've (weəv) you been?
 8) I'll (aɪl) be there.
 
-## Day 20｜英式美式英语区别
+## 20 英式美式英语区别
 1) UK: I can't /kɑːnt/ dance /dɑːns/. US: I can't /kænt/ dance /dæns/.
 2) UK: Water /ˈwɔːtə/. US: Water /ˈwɔːtər/ → /ˈwɔːdər/.
 3) UK: Car /kɑː/. US: Car /kɑːr/.
@@ -199,7 +199,7 @@
 7) UK: Neither /ˈnaɪðə/. US: Neither /ˈniːðər/.
 8) UK: Herb /hɜːb/. US: Herb /ɜːrb/.
 
-## Day 21｜发音的刻意练习方法
+## 21 发音的刻意练习方法
 1) Listen and repeat. (回音法)
 2) Record yourself speaking. (录音对比)
 3) Shadow native speakers. (影子跟读)

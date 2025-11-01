@@ -25,6 +25,7 @@ export default defineUserConfig({
           { text: '音标对比', link: '/summary/ipa-notes-compare' },
           { text: '单词库', link: '/summary/words-all' },
           { text: '句子库', link: '/summary/sentences-all' },
+          { text: '练习笔记', link: '/summary/my-note' },
         ]
       },
     ],
@@ -78,6 +79,7 @@ export default defineUserConfig({
             '/summary/words-all',
             '/summary/sentences-all',
             '/summary/ipa-notes-compare',
+            '/summary/my-note',
           ]
         }
       ]

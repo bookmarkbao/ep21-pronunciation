@@ -148,19 +148,19 @@
 
 ## 🎬 精彩片段
 
-### Day 1："Hello... uh... everyone... I... I am..."
+### 1："Hello... uh... everyone... I... I am..."
 紧张到结巴，一个自我介绍说了3分钟
 
-### Day 7："I survived the first week!"
+### 7："I survived the first week!"
 第一周结束时的兴奋
 
-### Day 14："Wait, I'm actually enjoying this!"
+### 14："Wait, I'm actually enjoying this!"
 突然发现自己不紧张了
 
-### Day 18："It feels natural now"
+### 18："It feels natural now"
 适应的那一刻
 
-### Day 21："This is not the end, it's just the beginning"
+### 21："This is not the end, it's just the beginning"
 完成挑战时的感悟
 
 ## 📈 成长曲线

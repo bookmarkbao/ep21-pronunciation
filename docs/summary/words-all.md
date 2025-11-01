@@ -2,18 +2,18 @@
 
 > 用法：按 Day、音标/主题、词频分组，便于直播/复习一页带完
 
-## Day 01｜英文腔体 低喉位宽大舌
+## 01 英文腔体 低喉位宽大舌
 - 核心训练词：hello, good, morning, comfortable, wonderful
 - 口型体感词：low, throat, relax, voice, placement
 
-## Day 02｜元音 前元音
+## 02 元音 前元音
 - 目标音：/iː/ /ɪ/ /e/ /æ/
 - /iː/: see, meet, these, people, even, please, keep, feel, leave, believe, receive
 - /ɪ/: sit, bit, live, give, minute, busy, women, build, pretty, myth
 - /e/: bed, red, bread, many, friend, said, again, ready, health, measure
 - /æ/: cat, bad, apple, happy, family, understand, language, natural, practice
 
-## Day 03｜元音 中元音后元音
+## 03 元音 中元音后元音
 - 目标音：/ə/ /ɜː/ /ʌ/ /ɑː/ /ɔː/ /ʊ/ /uː/
 - /ə/: about, sofa, banana, problem, national, camera, today, support
 - /ɜː/: bird, work, turn, learn, earth, nurse, first, world, heard
@@ -23,7 +23,7 @@
 - /ʊ/: book, put, good, would, could, should, woman, full
 - /uː/: food, moon, soon, blue, true, school, room, group
 
-## Day 04｜元音 双元音
+## 04 元音 双元音
 - 目标音：/eɪ/ /aɪ/ /ɔɪ/ /aʊ/ /əʊ/ /ɪə/ /eə/ /ʊə/
 - /eɪ/: day, make, say, way, eight, great, rain, weight
 - /aɪ/: my, time, buy, eye, height, island, write, light
@@ -34,7 +34,7 @@
 - /eə/: air, care, hair, where, there, share, fair, wear
 - /ʊə/: tour, sure, pure, cure, mature, endure
 
-## Day 05｜辅音 爆破音（/p b t d k g/）
+## 05 辅音 爆破音（/p b t d k g/）
 - /p/: pen, happy, stop, help, pepper, apple, speak, depend
 - /b/: boy, baby, job, table, member, about, maybe, problem
 - /t/: time, better, sit, cat, letter, minute, tonight, attempt
@@ -43,7 +43,7 @@
 - /g/: go, bigger, bag, dog, language, figure, struggle, example
 - 最小对立对：pin/bin, ten/den, cap/gap, coat/goat
 
-## Day 06｜辅音 摩擦音（/f v θ ð s z ʃ ʒ h/）
+## 06 辅音 摩擦音（/f v θ ð s z ʃ ʒ h/）
 - /f/: fish, coffee, enough, laugh, phone, philosophy, relief
 - /v/: very, have, love, move, valley, involve, review, arrive
 - /θ/: think, both, through, mouth, worth, method, author, health
@@ -54,21 +54,21 @@
 - /ʒ/: measure, pleasure, vision, television, garage, beige, genre
 - /h/: hot, behind, who, whole, perhaps, somehow
 
-## Day 07｜辅音 破擦音鼻音（/tʃ dʒ m n ŋ/）
+## 07 辅音 破擦音鼻音（/tʃ dʒ m n ŋ/）
 - /tʃ/: church, watch, match, teacher, question, nature, feature
 - /dʒ/: judge, bridge, age, edge, gentle, magic, imagine, college
 - /m/: mother, come, some, summer, remember, promote, sometime
-- /n/: name, funny, can, phone, know, manner, announce, engineer
-- /ŋ/: sing, long, thinking, finger, language, stronger, banking
+- /n/: and, in, on, no, not, know, can, want, one, now, when, an, then, been, need, man, mean, down, never, only
+- /ŋ/: thing, something, ring, bring, sing, king, morning, long, wrong, along, strong, song, hang, young, darling, think, thank, drink, bank, uncle
 
-## Day 08｜辅音 舌侧音半元音（/l r w j/）
+## 08 辅音 舌侧音半元音（/l r w j/）
 - /l/ (light): look, like, love, play, glass, please, climate, black
 - /l/ (dark): tell, call, people, world, helpful, careful, pull, school
 - /r/: red, very, around, problem, through, country, price, strong
 - /w/: water, always, quite, square, twenty, between, language
 - /j/: yes, year, use, few, beautiful, computer, value, argue
 
-## Day 09｜辅音组合
+## 09 辅音组合
 - sp-: speak, special, sport, spend, space, spirit, spoon, spray
 - st-: stop, stay, story, student, stand, stage, station, steady
 - sk-: sky, skill, ask, task, desk, skip, sketch, skeleton
@@ -88,7 +88,7 @@
 - str-: strong, street, strange, structure, struggle
 - scr-: screen, scream, scratch, script
 
-## Day 10｜-s 和 -ed 尾音
+## 10 -s 和 -ed 尾音
 - -s规则示例：
   - /s/: books, stops, helps, thinks, laughs
   - /z/: dogs, sees, plays, comes, lives
@@ -98,7 +98,7 @@
   - /d/: played, called, loved, lived, studied
   - /ɪd/: wanted, needed, started, decided, visited
 
-## Day 11-21｜节奏与语调词汇
+## 11-21 节奏与语调词汇
 - 重音练习词：photograph/photographer/photographic
 - 连读练习词：pick up, not at all, go out, look at it
 - 弱读功能词：a, an, the, to, for, of, and, but, or, can, will, would
