@@ -33,10 +33,12 @@ title: 我的音标练习笔记
   - 单词：and, do, good, did, would, had, need, could, down, day, should, said, find, god, friend, told, doe, old, around, kid
 
 - **/ʃ/**
-  - 单词：she, should, sure, show, wish, shut, shot, shall, shoot, finish, picture, special, ship, push, share, fish, station, shop, short, information
+  - 单词：she, should, sure, show, wish, shut, shot, shall, shoot, finish, special, ship, push, share, fish, station, shop, short, information
+
 
 - **/ʒ/**   
   - 单词：decision, pleasure, usual, treasure, television, explosion, vision, measure, garage, version, occasion, division, conclusion, massage, illusion, visual, invasion, confusion, casualty, sabotage
+
 
 - **/tʃ/**
   - 单词：much, which, change, watch, actually, such, check, question, each, chance, children, child, touch, chuckle, catch, charge, cheer, future, choice, reach
