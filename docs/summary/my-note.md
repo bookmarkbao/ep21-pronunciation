@@ -11,6 +11,12 @@ title: 我的音标练习笔记
 
 ---
 
+- **/t/**
+  - 单词：to, it, that, what, not, but, get, just, right, want, out, about, at, got, let, time, take, tell, too, talk
+
+- **/d/**
+  - 单词：and, do, good, did, would, had, need, could, down, day, should, said, find, god, friend, told, doe, old, around, kid
+
 - **/ʃ/**
   - 单词：she, should, sure, show, wish, shut, shot, shall, shoot, finish, picture, special, ship, push, share, fish, station, shop, short, information
 
@@ -46,11 +52,13 @@ title: 我的音标练习笔记
 4. **口诀：** "d + zh = j" - 像中文"之"的声母加 /d/
 
 **笔记详情见这里：**
+- [/t/详细](../notes/t.md)
+- [/d/详细](../notes/d.md)
 - [/ʃ/详细](../notes/ʃ.md)
 - [/ʒ/详细](../notes/ʒ.md)
 - [/n/详细](../notes/n.md)
 - [/ŋ/详细](../notes/ŋ.md)
 - [/tʃ/详细](../notes/tʃ.md)
 - [/dʒ/详细](../notes/dʒ.md)
-- [/ʃ vs ʒ/详细](../notes/ʃ vs ʒ.md)
+- [/ʃ vs ʒ/详细](../notes/ʃ-ʒ.md)
 ---

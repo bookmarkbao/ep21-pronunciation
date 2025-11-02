@@ -37,8 +37,8 @@
 ## 05 辅音 爆破音（/p b t d k g/）
 - /p/: pen, happy, stop, help, pepper, apple, speak, depend
 - /b/: boy, baby, job, table, member, about, maybe, problem
-- /t/: time, better, sit, cat, letter, minute, tonight, attempt
-- /d/: day, ready, bed, kind, middle, ladder, understand, depend
+- /t/: to, it, that, what, not, but, get, just, right, want, out, about, at, got, let, time, take, tell, too, talk
+- /d/: and, do, good, did, would, had, need, could, down, day, should, said, find, god, friend, told, doe, old, around, kid
 - /k/: key, back, school, music, unique, technique, package, stomach
 - /g/: go, bigger, bag, dog, language, figure, struggle, example
 - 最小对立对：pin/bin, ten/den, cap/gap, coat/goat
