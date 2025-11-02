@@ -4,6 +4,10 @@ title: 我的音标练习笔记
 
 ## day3 11月3日
 
+> - 上午7:45开始，8:30结束： /eɪ/ /əʊ/ /aɪ/ /ɔɪ/ /aʊ/
+> - 中午：复习巩固
+> - 晚上21:00开始，22:00结束： /ʌ/ /ɑː/ /ɔː/ /ʊ/ /uː/ /ə/ /ɜː/
+
 - **/eɪ/**
   - 单词：they, say, take, okay, make, way, day, wait, great, maybe, away, name, always, place, stay, play, made, late, came, today
 
@@ -19,6 +23,20 @@ title: 我的音标练习笔记
 - **/aʊ/**
   - 单词：out, about, now, how, down, around, house, found, without, sound, town, outside, allow, count, round, mouth, thousand, ground, doubt, proud
 
+- **/ʊ/**
+  - 单词：look, good, would, could, should, put, woman, took, book, pull, full, push, cook, foot, wood, bullet, hook, sugar, wolf, stood
+
+- **/uː/ (uː 长元音)**
+  - 单词：you, to, do, who, too, two, use, new, move, through, room, actually, knew, school, soon, few, true, lose, shoot, cool
+
+- **/ɑ/ (ɑː)**
+  - 单词：not, want, got, stop, god, lot, father, job, watch, mom, problem, doctor, probably, body, promise, follow, shot, drop, hot, top
+
+- **/ʌ/**
+  - 单词：some, love, because, much, other, nothing, must, won, money, done, run, mother, enough, another, son, brother, once, such, until, young
+
+- **/ɔ/ (ɔː)**
+  - 单词：on, all, talk, call, off, long, thought, always, wrong, saw, already, also, walk, gone, lost, water, daughter, dog, cause, almost
 
 **笔记详情见这里：**
 - [/eɪ/详细](../notes/eɪ.md)
@@ -34,6 +52,9 @@ title: 我的音标练习笔记
 - So welcome back after 21 days and see how my pronunciation is going!
 
 ---
+
+> - 下午16:40开始，17:30结束： /ʃ/ /ʒ/ /tʃ/ /dʒ/
+> - 晚上21:00开始，22:00结束： /r/ /e/ /æ/ /iː/ /ɪ/ /t/ /d/
 
 - **/r/**
   - 单词：right, from, really, try, great, friend, around, run, through, remember, wrong, three, room, bring, brother, real, problem, ready, pretty, drink
@@ -85,7 +106,7 @@ title: 我的音标练习笔记
 
 
 ## day1 11月1日
-
+> - 晚上9点开始，10点结束： /n/ /ŋ/
 - **/n/**
   - 单词：and, in, on, no, not, know, can, want, one, now, when, an, then, been, need, man, mean, down, never, only
 
