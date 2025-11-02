@@ -25,14 +25,12 @@
 
 ## 04 元音 双元音
 - 目标音：/eɪ/ /aɪ/ /ɔɪ/ /aʊ/ /əʊ/ /ɪə/ /eə/ /ʊə/
-- /eɪ/: day, make, say, way, eight, great, rain, weight
-- /aɪ/: my, time, buy, eye, height, island, write, light
-- /ɔɪ/: boy, voice, choice, noise, oil, join, coin, point
-- /aʊ/: how, now, brown, house, about, mouth, sound, pound
-- /əʊ/: go, home, know, show, road, boat, though, shoulder
-- /ɪə/: ear, here, near, clear, appear, year, idea, career
-- /eə/: air, care, hair, where, there, share, fair, wear
-- /ʊə/: tour, sure, pure, cure, mature, endure
+- /eɪ/: they, say, take, okay, make, way, day, wait, great, maybe, away, name, always, place, stay, play, made, late, came, today
+- /aɪ/: i, my, like, right, hi, why, time, by, guy, try, life, find, night, live, die, nice, fine, kind, might, mind
+- /ɔɪ/: boy, point, voice, join, enjoy, choice, destroy, lawyer, boyfriend, poison, noise, avoid, oil, joy, toilet, disappoint, royal, appointment, toy, annoy
+- /aʊ/: out, about, now, how, down, around, house, found, without, sound, town, outside, allow, count, round, mouth, thousand, ground, doubt, proud
+- /əʊ/: go, no, know, so, okay, only, over, home, those, told, doe, old, show, hello, own, hold, open, close, hope, most
+
 
 ## 05 辅音 爆破音（/p b t d k g/）
 - /p/: pen, happy, stop, help, pepper, apple, speak, depend
