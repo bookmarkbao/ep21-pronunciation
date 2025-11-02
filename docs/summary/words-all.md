@@ -8,10 +8,10 @@
 
 ## 02 元音 前元音
 - 目标音：/iː/ /ɪ/ /e/ /æ/
-- /iː/: see, meet, these, people, even, please, keep, feel, leave, believe, receive
-- /ɪ/: sit, bit, live, give, minute, busy, women, build, pretty, myth
-- /e/: bed, red, bread, many, friend, said, again, ready, health, measure
-- /æ/: cat, bad, apple, happy, family, understand, language, natural, practice
+- /iː/: we, me, he, be, she, see, need, mean, people, really, please, even,these, feel, leave, keep
+- /ɪ/: it, is, in, this, with, if, him, think, will, did, his, been, thing, give, little, into, kill, still, live, big
+- /e/: get, well, let, yes, when, tell, them, then, never, said, help, again, friend, better, everything, ever, hello, remember, left, head
+- /æ/: that, have, can, at, as, back, had, man, thank, happen, ask, after, than, last, hand, dad, bad, family, matter, actually
 
 ## 03 元音 中元音后元音
 - 目标音：/ə/ /ɜː/ /ʌ/ /ɑː/ /ɔː/ /ʊ/ /uː/
@@ -64,7 +64,7 @@
 ## 08 辅音 舌侧音半元音（/l r w j/）
 - /l/ (light): look, like, love, play, glass, please, climate, black
 - /l/ (dark): tell, call, people, world, helpful, careful, pull, school
-- /r/: red, very, around, problem, through, country, price, strong
+- /r/: right, from, really, try, great, friend, around, run, through, remember, wrong, three, room, bring, brother, real, problem, ready, pretty, drink
 - /w/: water, always, quite, square, twenty, between, language
 - /j/: yes, year, use, few, beautiful, computer, value, argue
 

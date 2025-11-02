@@ -11,6 +11,21 @@ title: 我的音标练习笔记
 
 ---
 
+- **/r/**
+  - 单词：right, from, really, try, great, friend, around, run, through, remember, wrong, three, room, bring, brother, real, problem, ready, pretty, drink
+
+- **/e/**
+  - 单词：get, well, let, yes, when, tell, them, then, never, said, help, again, friend, better, everything, ever, hello, remember, left, head
+
+- **/æ/**
+  - 单词：that, have, can, at, as, back, had, man, thank, happen, ask, after, than, last, hand, dad, bad, family, matter, actually
+
+- **/iː/**
+  - 单词：we, me, he, be, she, see, need, mean, people, really, please, even,these, feel, leave, keep
+
+- **/ɪ/**
+  - 单词：it, is, in, this, with, if, him, think, will, did, his, been, thing, give, little, into, kill, still, live, big
+
 - **/t/**
   - 单词：to, it, that, what, not, but, get, just, right, want, out, about, at, got, let, time, take, tell, too, talk
 
@@ -52,6 +67,9 @@ title: 我的音标练习笔记
 4. **口诀：** "d + zh = j" - 像中文"之"的声母加 /d/
 
 **笔记详情见这里：**
+- [/æ/详细](../notes/æ.md)
+- [/e/详细](../notes/e.md)
+- [/r/详细](../notes/r.md)
 - [/t/详细](../notes/t.md)
 - [/d/详细](../notes/d.md)
 - [/ʃ/详细](../notes/ʃ.md)
