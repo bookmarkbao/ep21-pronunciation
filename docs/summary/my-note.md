@@ -37,7 +37,7 @@ title: 我的音标练习笔记
 
 
 - **/ʒ/**   
-  - 单词：decision, pleasure, usual, treasure, television, explosion, vision, measure, garage, version, occasion, division, conclusion, massage, illusion, visual, invasion, confusion, casualty, sabotage
+  - 单词：decision, pleasure, usual, treasure, television, explosion, vision, measure, version, occasion, division, conclusion, massage, illusion, visual, invasion, confusion, casualty, sabotage
 
 
 - **/tʃ/**
