@@ -50,13 +50,13 @@
 - /ð/: this, that, with, other, mother, brother, weather, together
 - /s/: sun, miss, nice, city, science, place, glass, perhaps
 - /z/: zoo, busy, these, please, choose, reason, freeze, organize
-- /ʃ/: she, wash, machine, nation, special, sure, ocean, tension
-- /ʒ/: measure, pleasure, vision, television, garage, beige, genre
+- /ʃ/: she, should, sure, show, wish, shut, shot, shall, shoot, finish, picture, special, ship, push, share, fish, station, shop, short, information
+- /ʒ/: decision, pleasure, usual, treasure, television, explosion, vision, measure, garage, version, occasion, division, conclusion, massage, illusion, visual, invasion, confusion, casualty, sabotage
 - /h/: hot, behind, who, whole, perhaps, somehow
 
 ## 07 辅音 破擦音鼻音（/tʃ dʒ m n ŋ/）
-- /tʃ/: church, watch, match, teacher, question, nature, feature
-- /dʒ/: judge, bridge, age, edge, gentle, magic, imagine, college
+- /tʃ/: much, which, change, watch, actually, such, check, question, each, chance, children, child, touch, chuckle, catch, charge, cheer, future, choice, reach
+- /dʒ/: just, job, change, jack, charge, age, join, enjoy, gentlemen, imagine, joke, message, general, strange, judge, jump, agent, marriage, dangerous, major
 - /m/: mother, come, some, summer, remember, promote, sometime
 - /n/: and, in, on, no, not, know, can, want, one, now, when, an, then, been, need, man, mean, down, never, only
 - /ŋ/: thing, something, ring, bring, sing, king, morning, long, wrong, along, strong, song, hang, young, darling, think, thank, drink, bank, uncle
