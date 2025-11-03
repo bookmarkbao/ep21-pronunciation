@@ -4,9 +4,9 @@ title: 我的音标练习笔记
 
 ## day3 11月3日
 
-> - 上午7:45开始，8:30结束： /eɪ/ /əʊ/ /aɪ/ /ɔɪ/ /aʊ/
+> - 上午7:45开始，8:30结束： /ʌ/ /ɑː/ /ɔː/ /ʊ/ /uː/ /ə/ /ɜː/
 > - 中午：复习巩固
-> - 晚上21:00开始，22:00结束： /ʌ/ /ɑː/ /ɔː/ /ʊ/ /uː/ /ə/ /ɜː/
+> - 晚上21:00开始，22:00结束： /eɪ/ /əʊ/ /aɪ/ /ɔɪ/ /aʊ/
 
 - **/eɪ/**
   - 单词：they, say, take, okay, make, way, day, wait, great, maybe, away, name, always, place, stay, play, made, late, came, today
@@ -38,12 +38,20 @@ title: 我的音标练习笔记
 - **/ɔ/ (ɔː)**
   - 单词：on, all, talk, call, off, long, thought, always, wrong, saw, already, also, walk, gone, lost, water, daughter, dog, cause, almost
 
+- **/ə/**
+  - 单词：the, about, even, happen, again, away, around, listen, today, another, woman, family, open, together, idea, problem, tomorrow, tonight, second, alone
+
 **笔记详情见这里：**
 - [/eɪ/详细](../notes/eɪ.md)
 - [/oʊ/详细](../notes/oʊ.md)
 - [/aɪ/详细](../notes/aɪ.md)
 - [/ɔɪ/详细](../notes/ɔɪ.md)
 - [/aʊ/详细](../notes/aʊ.md)
+- [/ʊ/详细](../notes/ʊ.md)
+- [/ɑ/详细](../notes/ɑ.md)
+- [/ʌ/详细](../notes/ʌ.md)
+- [/ɔ/详细](../notes/ɔ.md)
+- [/ə/详细](../notes/ə.md)
 
 ## day2 11月2日
 
