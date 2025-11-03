@@ -2,6 +2,42 @@
 title: 我的音标练习笔记
 ---
 
+## day4 11月4日
+> - 上午7:45开始，8:30结束： /l/ /w/ /j/ /f/ /v/
+> - 中午：复习巩固
+> - 晚上21:00开始，22:00结束： /s/ /z/ /θ/ /ð/ /h/ /k/ /g/ /p/ /b/
+
+- **/l/**
+  - 单词：all, like, well, look, will, let, tell, really, love, call, only, little, please, help, life, feel, kill, still, leave, long, live, girl, last, told, always, place, old, play, lot, believe
+
+- **/w/**
+  - 单词：what, we, was, with, want, one, well, will, why, when, would, where, were, way, work, wait, won, away, always, which
+
+- **/j/**
+  - 单词：your, yes, year, yet, young, yesterday, lawyer, yell, yep, beyond, cure, yard, pure, yellow, secure, piano, curious, civilian, companion, bureau
+
+- **/f/**
+  - 单词：for, if, from, off, life, find, feel, first, before, after, friend, father, fine, left, enough, found, family, yourself, laugh, face
+- **/v/**
+  - 单词：of, have, love, give, very, never, over, even, leave, live, believe, ever, move, every, haven, save, gave, five, drive, alive
+
+**笔记详情见这里：**
+- [/l/详细](../notes/l.md)
+- [/w/详细](../notes/w.md)
+- [/j/详细](../notes/j.md)
+- [/f/详细](../notes/f.md)
+- [/v/详细](../notes/v.md)
+- [/s/详细](../notes/s.md)
+- [/z/详细](../notes/z.md)
+- [/θ/详细](../notes/θ.md)
+- [/ð/详细](../notes/ð.md)
+- [/h/详细](../notes/h.md)
+- [/k/详细](../notes/k.md)
+- [/g/详细](../notes/g.md)
+- [/p/详细](../notes/p.md)
+- [/b/详细](../notes/b.md)
+
+
 ## day3 11月3日
 
 > - 上午7:45开始，8:30结束： /ʌ/ /ɑː/ /ɔː/ /ʊ/ /uː/ /ə/ /ɜː/
