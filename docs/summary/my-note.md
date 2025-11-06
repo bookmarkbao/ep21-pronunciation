@@ -1,11 +1,66 @@
 ---
 title: 我的音标练习笔记
 ---
+## day4 11月7日
+> - 上午7:45开始，8:30结束：/h/ /k/ /g/ /p/ /b/
+> - 中午：复习巩固
+> - 晚上21:00开始，22:00结束：复习巩固
+
+
+- **/h/**
+  - 单词：he, have, here, him, her, how, hi, who, his, had, has, help, happen, home, house, hello, hear, hand, head, hold
+
+- **/b/**
+  - 单词：be, but, about, back, been, by, because, maybe, before, better, big, believe, boy, remember, bad, job, baby, best, bring, brother
+
+- **/p/**
+  - 单词：up, people, please, help, happen, stop, put, keep, place, play, open, problem, hope, happy, pretty, speak, pay, suppose, sleep, police
+
+- **/k/**
+  - 单词：can, like, come, think, look, take, okay, back, make, thank, could, talk, call, work, because, ask, kill, keep, kid, kind
+
+- **/g/**
+  - 单词：go, get, got, good, give, guy, god, great, again, girl, big, together, guess, gone, ago, forget, game, exactly, gave, gun
+
+## day4 11月6日
+> - 上午7:45开始，8:30结束： /eɪ/ /əʊ/ /aɪ/ /ɔɪ/ /aʊ/
+> - 中午：复习巩固
+> - 晚上21:00开始，22:00结束：/s/ /z/ /θ/ /ð/
+
+- **/s/**
+  - 单词：sit, sky, face, nice, sea, bus, smile, lesson
+
+- **/z/**
+  - 单词：season, rise, rose, use, beds, zoo, buzz, has
+
+- **/θ/**
+  - 单词：with, think, thing, thank, thought, through, three, without, both, month, death, truth, throw, earth, worth, mouth, thousand, birthday, within, third
+
+- **/ð/**
+  - 单词：the, that, this, there, they, them, then, these, other, their, than, those, father, mother, another, together, brother, though, either, rather
+
+
+**笔记详情见这里：**
+- [/s/详细](../notes/s.md)
+- [/z/详细](../notes/z.md)
+- [/θ/详细](../notes/θ.md)
+- [/ð/详细](../notes/ð.md)
+- [/h/详细](../notes/h.md)
+
+
+
+
+## day4 11月5日
+> - 上午7:45开始，8:30结束： /eɪ/ /əʊ/ /aɪ/ /ɔɪ/ /aʊ/
+> - 中午：复习巩固
+> - 晚上21:00开始，22:00结束： /l/ /w/ /j/ /f/ /v/
+
+
 
 ## day4 11月4日
 > - 上午7:45开始，8:30结束： /l/ /w/ /j/ /f/ /v/
 > - 中午：复习巩固
-> - 晚上21:00开始，22:00结束： /s/ /z/ /θ/ /ð/ /h/ /k/ /g/ /p/ /b/
+> - 晚上21:00开始，22:00结束：/eɪ/ /əʊ/ /aɪ/ /ɔɪ/ /aʊ/
 
 - **/l/**
   - 单词：all, like, well, look, will, let, tell, really, love, call, only, little, please, help, life, feel, kill, still, leave, long, live, girl, last, told, always, place, old, play, lot, believe
