@@ -1,10 +1,25 @@
 ---
 title: 我的音标练习笔记
 ---
+## day4 11月8日
+> - 上午7:45开始，8:30结束：-s 和 -ed 尾音
+> - 中午：复习巩固
+> - 晚上21:00开始，22:00结束：
+
+- **/ɜːr/**
+  - 单词：her, were, work, sure, first, sir, girl, turn, world, worry, heard, word, hurt, person, murder, learn, return, hurry, early, perfect
+
+
+
+**笔记详情见这里：**
+- [/ɜːr/详细](../notes/ɜr.md)
+
+
 ## day4 11月7日
 > - 上午7:45开始，8:30结束：/h/ /k/ /g/ /p/ /b/
 > - 中午：复习巩固
-> - 晚上21:00开始，22:00结束：复习巩固
+> - 晚上21:00开始，22:00结束：/ɜːr/ 
+
 
 
 - **/h/**
@@ -21,6 +36,13 @@ title: 我的音标练习笔记
 
 - **/g/**
   - 单词：go, get, got, good, give, guy, god, great, again, girl, big, together, guess, gone, ago, forget, game, exactly, gave, gun
+
+**笔记详情见这里：**
+- [/h/详细](../notes/h.md)
+- [/k/详细](../notes/k.md)
+- [/g/详细](../notes/g.md)
+- [/p/详细](../notes/p.md)
+- [/b/详细](../notes/b.md)
 
 ## day4 11月6日
 > - 上午7:45开始，8:30结束： /eɪ/ /əʊ/ /aɪ/ /ɔɪ/ /aʊ/
