@@ -1,7 +1,7 @@
 ---
 title: 我的音标练习笔记
 ---
-## day4 11月8日
+## day8 11月8日
 > - 上午7:45开始，8:30结束：-s 和 -ed 尾音
 > - 中午：复习巩固
 > - 晚上21:00开始，22:00结束：
@@ -9,13 +9,16 @@ title: 我的音标练习笔记
 - **/ɜːr/**
   - 单词：her, were, work, sure, first, sir, girl, turn, world, worry, heard, word, hurt, person, murder, learn, return, hurry, early, perfect
 
+- **/eə(r)/**
+  - 单词：share, care, dare, fare, rare, scare, stare, bare, compare, prepare, beware, air, fair, hair, pair, chair, stairs, repair, bear, pear, wear, tear, there, where
+
 
 
 **笔记详情见这里：**
 - [/ɜːr/详细](../notes/ɜr.md)
 
 
-## day4 11月7日
+## day7 11月7日
 > - 上午7:45开始，8:30结束：/h/ /k/ /g/ /p/ /b/
 > - 中午：复习巩固
 > - 晚上21:00开始，22:00结束：/ɜːr/ 
@@ -44,7 +47,7 @@ title: 我的音标练习笔记
 - [/p/详细](../notes/p.md)
 - [/b/详细](../notes/b.md)
 
-## day4 11月6日
+## day6 11月6日
 > - 上午7:45开始，8:30结束： /eɪ/ /əʊ/ /aɪ/ /ɔɪ/ /aʊ/
 > - 中午：复习巩固
 > - 晚上21:00开始，22:00结束：/s/ /z/ /θ/ /ð/
@@ -72,7 +75,7 @@ title: 我的音标练习笔记
 
 
 
-## day4 11月5日
+## day5 11月5日
 > - 上午7:45开始，8:30结束： /eɪ/ /əʊ/ /aɪ/ /ɔɪ/ /aʊ/
 > - 中午：复习巩固
 > - 晚上21:00开始，22:00结束： /l/ /w/ /j/ /f/ /v/
