@@ -6,8 +6,38 @@ title: 我的音标练习笔记
 > - 中午：复习巩固
 > - 晚上21:00开始，22:00结束：
 
+- **-ed 结尾的单词发音为/ɪd/ **
+  - 单词：wanted, needed, decided, painted, waited, hated, invited, started, landed, ended
+  - 规则：当动词以 /t/ 或 /d/ 结尾时，加-ed发音为 /ɪd/
+
+- **-ed 结尾的单词发音为/d/ **
+  - 单词：played, cleaned, lived, grabbed, loved, begged, moved, listened, called, carried
+  - 规则：当动词以浊辅音 (/b/, /g/, /v/, /ð/, /m/, /n/, /ŋ/, /l/, /r/) 或元音结尾时，加-ed发音为 /d/
+
+
+- **-s 结尾的单词发音为/s/ **
+  - 单词：cats, books, cliffs, hats, cups, laughs, thoughts, kicks, packs, shifts
+  - 规则：当动词以清辅音 (/p/, /t/, /k/, /f/, /θ/) 结尾时，加-s发音为 /s/
+
+- **-s 结尾的单词发音为/z/ **
+  - 单词：dogs, sees, lives
+  - 规则：当动词以浊辅音 (/b/, /g/, /v/, /ð/, /m/, /n/, /ŋ/, /l/, /r/) 或元音结尾时，加-s发音为 /z/
+
+- **-s 结尾的单词发音为/ɪz/ **
+  - 单词：washes, watches, buzzes, fixes, kisses, bridges, judges, wishes, glasses, prizes
+  - 规则：当单词以 /s/, /z/, /ʃ/, /ʒ/, /tʃ/, /dʒ/ 结尾时，加-s发音为 /ɪz/
+
+
+**笔记详情见这里：**
+- [/ɪd/详细](../notes/ɪd.md)
+
+## day8 11月8日
+> - 上午7:45开始，8:30结束：-s 和 -ed 尾音
+> - 中午：复习巩固
+> - 晚上21:00开始，22:00结束：
+
 - **/ɜːr/**
-  - 单词：her, were, work, sure, first, sir, girl, turn, world, worry, heard, word, hurt, person, murder, learn, return, hurry, early, perfect
+  - 单词：her, were, work, sure, first, sir, girl, turn, world, heard, word, hurt, person, murder, learn, return,  early, perfect
 
 - **/eə(r)/**
   - 单词：share, care, dare, fare, rare, scare, stare, bare, compare, prepare, beware, air, fair, hair, pair, chair, stairs, repair, bear, pear, wear, tear, there, where
